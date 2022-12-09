@@ -1,2 +1,5 @@
 #ignora node_module
 node_modules/
+
+#archivos txt
+salida/*.txt
